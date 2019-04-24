@@ -8,11 +8,11 @@ self.__precacheManifest = [
     "url": "robots.txt"
   },
   {
-    "revision": "35b07eb2f8711ae08d1f58c043880930",
-    "url": "fonts/Roboto-Regular.35b07eb2.woff"
+    "revision": "c73eb1ceba3321a80a0aff13ad373cb4",
+    "url": "fonts/Roboto-Light.c73eb1ce.woff"
   },
   {
-    "revision": "fd430f239422fc30046c",
+    "revision": "5dd3696d98c4450d5f1b",
     "url": "css/chunk-195a1881.0b9c7dbe.css"
   },
   {
@@ -40,36 +40,40 @@ self.__precacheManifest = [
     "url": "fonts/fa-regular-400.65b9977a.ttf"
   },
   {
+    "revision": "5e2f92123d241cabecf0b289b9b08d4a",
+    "url": "fonts/fa-brands-400.5e2f9212.woff2"
+  },
+  {
     "revision": "ad538a69b0e8615ed0419c4529344ffc",
     "url": "fonts/Roboto-Thin.ad538a69.woff2"
   },
   {
-    "revision": "73f0a88bbca1bec19fb1303c689d04c6",
-    "url": "fonts/Roboto-Regular.73f0a88b.woff2"
+    "revision": "418dad87601f9c8abd0e5798c0dc1feb",
+    "url": "fonts/fa-solid-900.418dad87.woff2"
   },
   {
     "revision": "d26871e8149b5759f814fd3c7a4f784b",
     "url": "fonts/Roboto-Light.d26871e8.woff2"
   },
   {
-    "revision": "b52fac2bb93c5858f3f2675e4b52e1de",
-    "url": "fonts/Roboto-Bold.b52fac2b.woff2"
+    "revision": "73f0a88bbca1bec19fb1303c689d04c6",
+    "url": "fonts/Roboto-Regular.73f0a88b.woff2"
   },
   {
     "revision": "90d1676003d9c28c04994c18bfd8b558",
     "url": "fonts/Roboto-Medium.90d16760.woff2"
   },
   {
+    "revision": "b52fac2bb93c5858f3f2675e4b52e1de",
+    "url": "fonts/Roboto-Bold.b52fac2b.woff2"
+  },
+  {
     "revision": "59eb3601394dd87f30f82433fb39dd94",
     "url": "fonts/Roboto-Black.59eb3601.woff2"
   },
   {
-    "revision": "5e2f92123d241cabecf0b289b9b08d4a",
-    "url": "fonts/fa-brands-400.5e2f9212.woff2"
-  },
-  {
-    "revision": "418dad87601f9c8abd0e5798c0dc1feb",
-    "url": "fonts/fa-solid-900.418dad87.woff2"
+    "revision": "2ef8ba3410dcc71578a880e7064acd7a",
+    "url": "fonts/fa-brands-400.2ef8ba34.woff"
   },
   {
     "revision": "5b4a33e176ff736a74f0ca2dd9e6b396",
@@ -96,28 +100,24 @@ self.__precacheManifest = [
     "url": "fonts/Roboto-BlackItalic.f75569f8.woff2"
   },
   {
-    "revision": "2ef8ba3410dcc71578a880e7064acd7a",
-    "url": "fonts/fa-brands-400.2ef8ba34.woff"
-  },
-  {
     "revision": "a7140145ebaaf5fb14e40430af5d25c4",
     "url": "fonts/fa-solid-900.a7140145.woff"
   },
   {
-    "revision": "ec7583a2ceab7b2a2c93",
-    "url": "js/app.1c2de16d.js"
+    "revision": "c9d54746261e4df00f3f",
+    "url": "js/app.1ff7af38.js"
   },
   {
-    "revision": "fd430f239422fc30046c",
-    "url": "js/chunk-195a1881.a27043d3.js"
+    "revision": "5dd3696d98c4450d5f1b",
+    "url": "js/chunk-195a1881.85148758.js"
   },
   {
     "revision": "1d6594826615607f6dc860bb49258acb",
     "url": "fonts/Roboto-Medium.1d659482.woff"
   },
   {
-    "revision": "c73eb1ceba3321a80a0aff13ad373cb4",
-    "url": "fonts/Roboto-Light.c73eb1ce.woff"
+    "revision": "35b07eb2f8711ae08d1f58c043880930",
+    "url": "fonts/Roboto-Regular.35b07eb2.woff"
   },
   {
     "revision": "50d75e48e0a3ddab1dd15d6bfb9d3700",
@@ -128,12 +128,12 @@ self.__precacheManifest = [
     "url": "fonts/Roboto-Black.313a6563.woff"
   },
   {
-    "revision": "8a96edbbcd9a6991d79371aed0b0288e",
-    "url": "fonts/Roboto-ThinItalic.8a96edbb.woff"
-  },
-  {
     "revision": "13efe6cbc10b97144a28310ebdeda594",
     "url": "fonts/Roboto-LightItalic.13efe6cb.woff"
+  },
+  {
+    "revision": "8a96edbbcd9a6991d79371aed0b0288e",
+    "url": "fonts/Roboto-ThinItalic.8a96edbb.woff"
   },
   {
     "revision": "f5902d5ef961717ed263902fc429e6ae",
@@ -164,16 +164,16 @@ self.__precacheManifest = [
     "url": "img/fa-regular-400.5eb754ab.svg"
   },
   {
+    "revision": "ff8d9f8adb0d09f11d4816a152672f53",
+    "url": "fonts/fa-solid-900.ff8d9f8a.ttf"
+  },
+  {
     "revision": "46e7cec623d8bd790d9fdbc8de2d3ee7",
     "url": "fonts/fa-solid-900.46e7cec6.eot"
   },
   {
     "revision": "84c6fe1e4353c916d8f1452e82bdef8d",
     "url": "fonts/materialdesignicons-webfont.84c6fe1e.woff2"
-  },
-  {
-    "revision": "ff8d9f8adb0d09f11d4816a152672f53",
-    "url": "fonts/fa-solid-900.ff8d9f8a.ttf"
   },
   {
     "revision": "1a95531b09ffc9b76104e0003b456a0e",
@@ -200,11 +200,11 @@ self.__precacheManifest = [
     "url": "img/materialdesignicons-webfont.c68a0a65.svg"
   },
   {
-    "revision": "c76057ac6fb32d7925fb26a9bcbeba1c",
+    "revision": "b5ab28f00fcac7ab8f20a7e072c2376a",
     "url": "index.html"
   },
   {
-    "revision": "ec7583a2ceab7b2a2c93",
+    "revision": "c9d54746261e4df00f3f",
     "url": "css/app.41ed541e.css"
   }
 ];
